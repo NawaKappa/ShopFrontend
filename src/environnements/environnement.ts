@@ -1,5 +1,5 @@
 export const environment = {
   production: false,
-  backendProducts: 'http://localhost:8080/api/product/',
-  backendClient: 'http://localhost:8080/api/client/'
+  backendProducts: 'https://shop-back-gilles-lauciello.herokuapp.com/api/product/',
+  backendClient: 'https://shop-back-gilles-lauciello.herokuapp.com/api/client/'
 };
